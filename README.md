@@ -1,2 +1,10 @@
-# geprc_mark4_xiaomi_mijia_4k_mount
-Mount for xiaomi mijia 4k on geprc mark4 frame
+# geprc mark4 xiaomi mijia 4k mount
+
+This is a camera mount for the xiaomi mijia 4k on geprc mark4 frame. This model was made using [solvespace](https://solvespace.com/index.pl),
+a free and fun to use CAD application.
+
+![Front](img/front.jpg)
+![Front Redux](img/front_2.jpg)
+![Back](img/back.jpg)
+
+This is also available as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4687888)
